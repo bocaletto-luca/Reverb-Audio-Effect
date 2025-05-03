@@ -1,4 +1,4 @@
-# Reverb - Audio Reverb Effects Application
+# Reverb - Audio Reverb Effects
 
 **Author:** Bocaletto Luca
 
