@@ -27,3 +27,11 @@
 "Reverb" is a valuable tool for musicians, music producers, and audio enthusiasts looking to add a touch of spatiality and depth to their audio recordings.
 
 **Note:** Make sure you have installed the necessary libraries listed in the code to run the application properly.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
